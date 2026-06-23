@@ -131,17 +131,6 @@ python pizzaria.py
 
 ---
 
-## 👥 Equipe
-
-| Membro | Responsabilidade |
-|--------|-----------------|
-| **Neves** | Cardápio e estrutura de dados |
-| **Wander** | Controle de estoque |
-| **Marcelo** | Tela de fazer pedido e validações |
-| **Lucas** | Lógica de itens, desconto e confirmação |
-
----
-
 ## 📚 Conceitos Aplicados
 
 - Manipulação de dicionários e listas em Python
